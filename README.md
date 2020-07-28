@@ -3,16 +3,20 @@
 
 ## Installation and Use
 
-Install Babel:
+- Install cli-encrypt:
 
-npm i babel-cli -g
+`npm install -g cli-encrypt`
 
-Install Babel Latest Preset:
+- Install Babel:
 
-npm i babel-preset-latest
+`npm i babel-cli -g`
 
-To run the Encrypt and Decrypt scripts:
+- Install Babel Latest Preset:
 
-babel-node --presets latest <Script name>.js
+`npm i babel-preset-latest`
+
+- To run the Encrypt and Decrypt scripts:
+
+`babel-node --presets latest <Script name>.js`
 
 
